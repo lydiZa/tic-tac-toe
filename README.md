@@ -5,5 +5,4 @@ Solo Version (Easy-Medium-Hard Levels)
 Duo (Play against another person)
 
 # To play
-Compile with g++
-Run with ./name
+Compile with g++, run with ./name
